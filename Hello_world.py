@@ -1,5 +1,5 @@
-def print_hello():
-    print("Hello World!!")
+def cat_tail():
+    print("Hello Meow!!")
 
 def print_KIT():
     print("Kumoh National Institue of Technology.")
